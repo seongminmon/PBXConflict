@@ -52,6 +52,7 @@
 			isa = PBXGroup;
 			children = (
 				24EFE9922CB4D1B5007A813C /* Bran */,
+                
 				24EFE9892CB4CCFA007A813C /* Preview Content */,
 			);
 			path = PBXConflict;
@@ -65,6 +66,7 @@
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
+        
 		24EFE9922CB4D1B5007A813C /* Bran */ = {
 			isa = PBXGroup;
 			children = (
